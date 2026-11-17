@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationpeoria.com/sitemap.xml
